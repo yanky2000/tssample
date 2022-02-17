@@ -1,0 +1,1 @@
+# Useful examples of advanced typescript types
